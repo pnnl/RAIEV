@@ -38,11 +38,8 @@ docs:
 	mkdir -p docs/_static
 	mkdir -p docs/source
 	mkdir -p docs/_build/html
-	mkdir -p docs/_build/html/_static
-	cp documentation_content/*.md docs/_static/
-	# hacks to make images work for included .md
-	cp documentation_content/_static/* docs/_static/
-	cp documentation_content/_static/* docs/_build/html/_static/
+	mkdir -p docs/_build/html/_static 
+	cp docs/_static/* docs/_build/html/_static/
 
 	# Copy Workflows notebooks
 	#cp -a WorkflowExamples docs/source
