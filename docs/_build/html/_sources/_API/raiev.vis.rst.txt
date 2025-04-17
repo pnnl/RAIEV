@@ -1,0 +1,66 @@
+raiev.vis package
+=================
+
+.. automodule:: raiev.vis
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+raiev.vis.acc module
+--------------------
+
+.. automodule:: raiev.vis.acc
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+raiev.vis.basics module
+-----------------------
+
+.. automodule:: raiev.vis.basics
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+raiev.vis.dash\_components module
+---------------------------------
+
+.. automodule:: raiev.vis.dash_components
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+raiev.vis.faceted\_metrics module
+---------------------------------
+
+.. automodule:: raiev.vis.faceted_metrics
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+raiev.vis.high\_confidence module
+---------------------------------
+
+.. automodule:: raiev.vis.high_confidence
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+raiev.vis.interactive module
+----------------------------
+
+.. automodule:: raiev.vis.interactive
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+raiev.vis.statistical\_testing module
+-------------------------------------
+
+.. automodule:: raiev.vis.statistical_testing
+   :members:
+   :undoc-members:
+   :show-inheritance:

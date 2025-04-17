@@ -1,0 +1,26 @@
+raiev.ngrams package
+====================
+
+.. automodule:: raiev.ngrams
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+raiev.ngrams.ngrams module
+--------------------------
+
+.. automodule:: raiev.ngrams.ngrams
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+raiev.ngrams.utils module
+-------------------------
+
+.. automodule:: raiev.ngrams.utils
+   :members:
+   :undoc-members:
+   :show-inheritance:

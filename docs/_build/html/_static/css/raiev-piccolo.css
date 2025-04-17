@@ -1,0 +1,19 @@
+/** css/raiev-piccolo.css **/
+
+/* This line is theme specific - it includes the base theme CSS */
+@import '../basic_mod.css';  /* for Piccolo */
+
+/* Changes for RAIEv docs */
+/* Fix Horizontal Scrollbar showing up excesively */
+div.document div.documentwrapper {
+    max-width: 100%;
+}
+
+/* Fix missing Cell # */
+div.document div.nbinput.container {
+    align-items: unset;
+}
+
+div.document div.nboutput.container {
+    align-items: unset;
+}

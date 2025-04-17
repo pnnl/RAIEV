@@ -1,0 +1,26 @@
+raiev.assistance package
+========================
+
+.. automodule:: raiev.assistance
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+raiev.assistance.cluster module
+-------------------------------
+
+.. automodule:: raiev.assistance.cluster
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+raiev.assistance.ensemble module
+--------------------------------
+
+.. automodule:: raiev.assistance.ensemble
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,74 @@
+raiev.workflows package
+=======================
+
+.. automodule:: raiev.workflows
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+raiev.workflows.accountability module
+-------------------------------------
+
+.. automodule:: raiev.workflows.accountability
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+raiev.workflows.base module
+---------------------------
+
+.. automodule:: raiev.workflows.base
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+raiev.workflows.causal module
+-----------------------------
+
+.. automodule:: raiev.workflows.causal
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+raiev.workflows.ensemble module
+-------------------------------
+
+.. automodule:: raiev.workflows.ensemble
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+raiev.workflows.equity module
+-----------------------------
+
+.. automodule:: raiev.workflows.equity
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+raiev.workflows.evaluation module
+---------------------------------
+
+.. automodule:: raiev.workflows.evaluation
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+raiev.workflows.failurecost module
+----------------------------------
+
+.. automodule:: raiev.workflows.failurecost
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+raiev.workflows.transparency module
+-----------------------------------
+
+.. automodule:: raiev.workflows.transparency
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,33 @@
+raiev package
+=============
+
+.. automodule:: raiev
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   raiev.assistance
+   raiev.causal
+   raiev.embeddings
+   raiev.models
+   raiev.ngrams
+   raiev.utils
+   raiev.vis
+   raiev.workflows
+
+Submodules
+----------
+
+raiev.log module
+----------------
+
+.. automodule:: raiev.log
+   :members:
+   :undoc-members:
+   :show-inheritance:
