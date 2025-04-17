@@ -2,6 +2,8 @@
 
 RAIEV, the **R**esponsible **AI** **Ev**aluation package contains protypes of AI-assisted evaluation workflows and interactive analytics for model evaluation and understanding. 
 
+</br>Searchable documentation is available at <a href="https://pnnl.github.io/RAIEV/" target="_blank"> https://pnnl.github.io/RAIEV/ </a>
+
 </br>
 </br>
 
